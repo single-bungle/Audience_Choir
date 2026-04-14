@@ -16,7 +16,7 @@ pip3 install -r requirements.txt #This may take a few minutes
 ```bash
 python3 audience-choir.py #This may take a minute
 ```
-![program_UI](program_UI.png)
+![program_UI](program_UI_en.png)
 
 # 4. Upload Singer and Song Audio file
 You can use any .wav format audio file for singer(program extract vocal feature from given audio speech or sing) and Song(program extract note and style from uploaded song file)
