@@ -2,19 +2,20 @@ This program has only been tested on Apple Silicon Mac, and it is highly likely 
 
 follow the step
 
-1. Download repository files
+# 1. Download repository files
 
-2. Set environment
-'''bash
+# 2. Set environment
+```bash
 # create virtual environment
 python3 -m venv myvenv
 source myvenv/bin/activate
 pip3 install -r requirements.txt #This will took a few minutes
+```
 
 3. Excute the Program
-'''bash
+```bash
 python3 audience-choir.py #This will took a minute
-
+```
 
 ![program_UI](program_UI.png)
 
