@@ -1,4 +1,5 @@
-This program has only been tested on Apple Silicon Mac, and it is highly likely that it will not function properly in other environments.
+# Preface
+This program has only been tested on Apple Silicon Mac, and it is highly likely that it will not function properly in other environments(Like Window or intel mac).
 
 follow the step
 
